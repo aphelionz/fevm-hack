@@ -1,0 +1,23 @@
+{
+  "name": "fevm-hack",
+  "version": "1.0.0",
+  "description": "FEVM Hackathon, Nov 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aphelionz/fevm-hack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aphelionz/fevm-hack/issues"
+  },
+  "homepage": "https://github.com/aphelionz/fevm-hack#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  }
+}
