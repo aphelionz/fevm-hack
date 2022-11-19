@@ -19,5 +19,8 @@
   "homepage": "https://github.com/aphelionz/fevm-hack#readme",
   "devDependencies": {
     "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
