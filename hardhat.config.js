@@ -1,3 +1,5 @@
+require('hardhat-deploy-ethers');
+
 require('./tasks')
 require("dotenv").config()
 
