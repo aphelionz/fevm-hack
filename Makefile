@@ -1,2 +1,2 @@
-default:
-	npx hardhat
+compile:
+	npx hardhat compile
